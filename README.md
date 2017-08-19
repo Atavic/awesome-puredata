@@ -39,4 +39,5 @@ https://github.com/NTU-ArtFest23/Puredata_voice_visualization
 
 ### Not listed:
 - Android, Arduino, Playstation and Raspberry integrations
-- Surround/Multichannel spatialization- Vector synthesis
+- Surround/Multichannel spatialization
+- Vector synthesis
