@@ -1,4 +1,4 @@
-### Awesome Pure Data - a raw list of PureData patches, externals and abstractions
+### Awesome Pure Data raw list of PureData patches, externals and abstractions
 https://github.com/pure-data/pure-data
 
 https://github.com/trimlab/Tri-M-Lab-Pd-Intro-Guide
